@@ -121,8 +121,7 @@ Across $L_1$ LASSO coefficients, Naive Bayes SFS selection, and Random Forest Gi
 
 ```text
 ├── Bank_Classification_Project.ipynb    # Executed Jupyter/Databricks notebook (43 cells, tables & plots)
-├── data/
-│   └── bank.csv                         # Bank telemarketing dataset (39,883 records)
+├──  bank.csv                         # Bank telemarketing dataset (39,883 records)
 ├── images/                              # Key exported visual results (PR curves, feature importance, ROC)
 ├── requirements.txt                     # Python dependencies for local reproducibility
 └── README.md                            # Project documentation & benchmark summary
